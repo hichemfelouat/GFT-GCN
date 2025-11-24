@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="3DDGD_Demo.gif" alt="3DDGD Demo" style="max-width: 50%; height: auto;">
+  <img src="GFT_GCN.png" alt="GFT_GCN" style="max-width: 40%; height: auto;">
 </p>
 
 ---
