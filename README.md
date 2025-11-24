@@ -3,7 +3,7 @@
 [![My ArXiv Papers](https://img.shields.io/badge/ArXiv-Your_ID-B31B1B?logo=arxiv&logoColor=white)](YOUR_ARXIV_AUTHOR_URL)
 
 <p align="center">
-  <img src="GFT_GCN.png" alt="GFT_GCN" style="max-width: 40%; height: auto;">
+  <img src="GFT_GCN.png" alt="GFT_GCN" style="max-width: 50%; height: auto;">
 </p>
 
 ---
