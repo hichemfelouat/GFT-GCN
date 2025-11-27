@@ -1,6 +1,6 @@
 # GFT-GCN: Privacy-Preserving 3D Face Mesh Recognition with Spectral Diffusion
 
-[![My ArXiv Papers](https://img.shields.io/badge/ArXiv-Your_ID-B31B1B?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2511.19958)
+[![My ArXiv Papers](https://img.shields.io/badge/ArXiv-2511.19958-B31B1B?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2511.19958)
 
 <p align="center">
   <img src="GFT_GCN.png" alt="GFT_GCN" style="max-width: 50%; height: auto;">
