@@ -110,11 +110,14 @@ Ensure that the dataset path and hyperparameters are set properly based on your 
 If you find our work useful, please consider citing:
 
 ```bibtex
-@article{felouat2025GFT-GCN,
-  title={GFT-GCN: Privacy-Preserving 3D Face Mesh Recognition with Spectral Diffusion},
-  author={Felouat, Hichem and Others},
-  journal={},
-  year={2025},
+@misc{felouat2025gftgcnprivacypreserving3dface,
+      title={GFT-GCN: Privacy-Preserving 3D Face Mesh Recognition with Spectral Diffusion}, 
+      author={Hichem Felouat and Hanrui Wang and Isao Echizen},
+      year={2025},
+      eprint={2511.19958},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2511.19958}, 
 }
 ```
 
